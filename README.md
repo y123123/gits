@@ -1,2 +1,2 @@
 # gits
-# create a new branch is quick & easy
+# create a new branch is quick and easy
